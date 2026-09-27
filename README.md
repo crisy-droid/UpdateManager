@@ -1,2 +1,2 @@
 # UpdateManager
-Update software
+Software Update EXE
